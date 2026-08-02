@@ -29,6 +29,3 @@ The script creates:
 
 M. Dangish et al., “Synchronization of chaotic optomechanical system with plasmonic cavity for secured quantum communication,” *AIP Advances*, 15, 015118 (2025). DOI: 10.1063/5.0241558.
 
-## License
-
-Add your preferred license before redistribution.
